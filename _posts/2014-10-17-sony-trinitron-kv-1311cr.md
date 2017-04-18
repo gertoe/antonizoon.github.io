@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Sony Trinitron KV-1311CR (Smashed)
 excerpt: "Sony Trinitron KV-1311CR: A very good, rare RGB CRT Monitor. Unfortunately, it was damaged during shipping."
 tags: [rgb, shipping, eBay]
