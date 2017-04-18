@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Rise of Nations: Multiplayer Custom Scenarios"
 excerpt: "How to play Rise of Nations Multiplayer Custom Scenarios, which can be particularly difficult to do."
 tags: [rts, Rise of Nations]

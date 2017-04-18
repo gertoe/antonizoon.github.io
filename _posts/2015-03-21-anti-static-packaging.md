@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Improvised Anti-Static Packaging
 excerpt: "How to make square PCBs fit in rectangular anti-static bags."
 tags: [packaging, shipping, eBay]

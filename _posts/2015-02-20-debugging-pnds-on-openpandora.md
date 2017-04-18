@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Debugging PNDs on the OpenPandora, for 'Digital: A Love Story'"
 excerpt: "A description of how to debug PND packages on the OpenPandora, to check broken script error output. I debugged 'Digital: A Love Story' via this method."
 tags: [OpenPandora, Pocket PC, Linux, Visual Novel]
