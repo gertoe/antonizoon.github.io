@@ -6,8 +6,6 @@ modified: 2015-02-14T13:23:02.362000-04:00
 excerpt: "A list of the many projects that I've been part of over my lifetime."
 ---
 
-{% include _toc.html %}
-
 A list of the many projects that I've been part of over my lifetime.
 
 Assorted Projects
