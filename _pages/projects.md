@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Projects
 permalink: /projects/
 modified: 2015-02-14T13:23:02.362000-04:00
