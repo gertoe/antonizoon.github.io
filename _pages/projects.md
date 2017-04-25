@@ -8,11 +8,6 @@ excerpt: "A list of the many projects that I've been part of over my lifetime."
 
 A list of the many projects that I've been part of over my lifetime.
 
-Assorted Projects
----------------
-
-Stuff I do as a hobby in my spare time.
-
 Bibliotheca Anonoma
 -------------------
 
