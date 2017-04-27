@@ -6,4 +6,4 @@ permalink: /resume/
 comments: true
 ---
 
-[The resume can be found here](/images/Resume.pdf). In the final draft it will be imported into the site.
+<iframe src="https://psu.app.box.com/embed/s/fhrvql9phlx3nrulyc8qnnmjwgussxgn" width="800" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
