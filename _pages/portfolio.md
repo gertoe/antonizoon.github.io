@@ -12,6 +12,22 @@ Below are some works I have made:
 
 Deliverables I have put together as part of a Penn State English 202C Technical Writing course.
 
+<figure>
+	<a href="/images/blog/resume.png"><img src="/images/blog/resume.png"></a>
+	<figcaption>[Resume](/resume/) - My personal resume, as part of my job application package. It is the centerpiece of this ePortfolio.</figcaption>
+</figure>
 * [Resume](/resume/) - My personal resume, as part of my job application package. It is the centerpiece of this ePortfolio.
+
+<figure>
+	<a href="/images/blog/wheelwriter-essay.png"><img src="/images/blog/wheelwriter-essay.png"></a>
+	<figcaption>[IBM Wheelwriter Technical Definition](/wheelwriter/) - The last great typewriter. It has word processing capabilities, a simple electromechanical design, and even erases.</figcaption>
+</figure>
+
 * [IBM Wheelwriter Technical Definition](/wheelwriter/) - The last great typewriter. It has word processing capabilities, a simple electromechanical design, and even erases.
+
+<figure>
+	<a href="/images/blog/mediawiki-essay.png"><img src="/images/blog/mediawiki-essay.png"></a>
+	<figcaption>[MediaWiki Installation Guide: With Nginx and HHVM](/mediawiki/) - Set up Mediawiki for high traffic using efficient engines such as Nginx and HHVM.</figcaption>
+</figure>
+
 * [MediaWiki Installation Guide: With Nginx and HHVM](/mediawiki/) - Set up Mediawiki for high traffic using efficient engines such as Nginx and HHVM.
