@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Mediawiki with Nginx and HHVM
+title: IBM Wheelwriter Technical Description
 tags: []
-permalink: /mediawiki/
+permalink: /wheelwriter/
 comments: true
 --- 
 
