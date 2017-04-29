@@ -13,5 +13,5 @@ Below are some works I have made:
 Deliverables I have put together as part of a Penn State English 202C Technical Writing course.
 
 * [Resume](/resume/) - My personal resume, as part of my job application package. It is the centerpiece of this ePortfolio.
-* [IBM Wheelwriter Technical Definition](/wheelwriter/) -
-* [MediaWiki Installation Guide: With Nginx and HHVM](/mediawiki/) - 
+* [IBM Wheelwriter Technical Definition](/wheelwriter/) - The last great typewriter. It has word processing capabilities, a simple electromechanical design, and even erases.
+* [MediaWiki Installation Guide: With Nginx and HHVM](/mediawiki/) - Set up Mediawiki for high traffic using efficient engines such as Nginx and HHVM.
