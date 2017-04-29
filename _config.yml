@@ -78,9 +78,9 @@ analytics:
 # Site Author
 author:
   name             : "Antonizoon (Lawrence Wu)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/BA-Logo 200px.png"
   bio              : ""
-  location         : ""
+  location         : "Penn State University"
   email            : "antonizoon@bibanon.org"
   uri              :
   bitbucket        :
