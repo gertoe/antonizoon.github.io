@@ -8,13 +8,18 @@ comments: true
 
 Below are some works I have made:
 
-## English
+## English 202C
 
-* MediaWiki Installation Guide
+Deliverables I have put together as part of a Penn State English 202C Technical Writing course.
+
+* [Resume](/resume/) - My personal resume, as part of my job application package. It is the centerpiece of this ePortfolio.
+* [IBM Wheelwriter Technical Definition](/wheelwriter/) -
+* [MediaWiki Installation Guide: With Nginx and HHVM](/mediawiki/) - 
 
 ## Bibliotheca Anonoma
 
-* Wiki.bibanon.org
+* [Wiki.bibanon.org](https://wiki.bibanon.org) - The Bibliotheca Anonoma Wiki, free for all to edit.
+* [BASC-py4chan](https://github.com/bibanon/BASC-py4chan)
 
 ## Research
 
